@@ -1,7 +1,7 @@
 {
-    "contorl":1,
+    "contorl":0,
     "web":"https://20987.111bra8.com/#/home?platform=af&colete=14",
     "afkey":"g9VQwgUQV2DzwGSRfABZnm",
-    "time":"all",
-    "local":"all"
+    "time":"G-05:00,G-04:00,G-03:00,G-02:00",
+    "local":"pt_br"
 }
